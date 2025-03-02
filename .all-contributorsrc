@@ -9,7 +9,17 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "angular",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "Yourusername",
+      "name": "yourusername",
+      "avatar_url": "https://avatars.githubusercontent.com/u/828141?v=4",
+      "profile": "https://github.com/Yourusername",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "linkToUsage": true
 }
